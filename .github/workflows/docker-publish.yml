@@ -1,6 +1,5 @@
 name: Docker
 
-
 on:
 
   push:
@@ -25,8 +24,7 @@ jobs:
 
     submodules: recursive
 
-
-      - name: Build/push
+      - name: Build and push
 
         uses: whoan/docker-build-with-cache-action@v5
 
