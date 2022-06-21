@@ -19,19 +19,11 @@ jobs:
         uses: actions/checkout@v2
 
   with:
-
     submodules: recursive
-
       - name: Build/push
-
         uses: whoan/docker-build-with-cache-action@v5
-
         with:
-
           registry: ghcr.io
-
           image_name: ${{ github.actor }}/GSOC22
-
           username: ${{ github.actor }}
-
           password: ${{ secrets.GITHUB_TOKEN }}
