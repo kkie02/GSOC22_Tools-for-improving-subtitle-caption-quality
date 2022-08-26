@@ -5,7 +5,7 @@
 ## About
 This is a tool to detect word errors and grammatical errors for CCExtractor files. This tool basically takes generated txt file from CCExtractor as input and gives another txt file that contains the lines of error, original errors, and suggestions for correctness.
 
-This GSoC project "[Tools-for-improving-subtitle-caption-quality]"(https://summerofcode.withgoogle.com/programs/2022/projects/GJVsyb6V) is contributed by Qing with [Red Hen Lab](https://www.redhenlab.org/home), under the supervision from Rosa Illán.
+This GSoC project [Tools-for-improving-subtitle-caption-quality](https://summerofcode.withgoogle.com/programs/2022/projects/GJVsyb6V) is contributed by Qing with [Red Hen Lab](https://www.redhenlab.org/home), under the supervision from Rosa Illán.
 
 ## Prerequests
 If you only want to get a better Spanish dictionary for Hunspell, you can download these two files and put them into your own machine:
