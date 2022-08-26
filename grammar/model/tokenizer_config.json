@@ -1,0 +1,11 @@
+{
+  "additional_special_tokens": null,
+  "eos_token": "</s>",
+  "extra_ids": 0,
+  "name_or_path": "JorgeSarry/est5base",
+  "pad_token": "<pad>",
+  "sp_model_kwargs": {},
+  "special_tokens_map_file": "est5-base/special_tokens_map.json",
+  "tokenizer_class": "T5Tokenizer",
+  "unk_token": "<unk>"
+}

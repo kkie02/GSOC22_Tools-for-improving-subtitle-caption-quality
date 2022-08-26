@@ -1,0 +1,502 @@
+TOP|20140404122900|2014-04-04_1229_ES_La-1_Noticias_24_horas
+COL|Communication Studies Archive, UCLA
+UID|2427c53c-bc02-11e3-84e1-0026bb6a0a64
+DUR|0:31:54.720
+VID|480x360|720x576
+TTL|Noticias 24 horas
+SRC|UMurcia mmm
+CMT|
+LAN|SPA
+TTP|888
+LBT|2014-04-04 14:29 Europe/Madrid
+20140404122905.320|20140404122907.080|CC1|Crecen los problemas para Gloria Camila faltarle MX-ES. 
+20140404122907.120|20140404122909.360|CC1|A la inminente entrada de su padre en la cárcel, 
+20140404122909.400|20140404122911.760|CC1|se suma ahora una denuncia contra ella \por injurias. 
+20140404122913.120|20140404122916.560|CC1|Última hora sobre el estado de salud de Concha Velasco. 
+20140404122916.600|20140404122919.440|CC1|La actriz, que ha tenido que ser operada de urgencia, 
+20140404122919.480|20140404122921.560|CC1|evoluciona favorablemente. 
+20140404122922.880|20140404122927.680|CC1|Kiko Rivera se tiene que tomar más en serio sus ataques de gota. 
+20140404122927.720|20140404122929.200|CC1|Se cuida muy poco 
+20140404122929.240|20140404122931.920|CC1|y su entorno más cercano está preocupado por él. 
+20140404122938.040|20140404122939.560|CC1|Muy buenas tardes. 
+20140404122939.600|20140404122942.240|CC1|Kiko Rivera no termina de superar el ataque de gota 
+20140404122942.280|20140404122944.560|CC1|que le tiene caminando con ayuda de una muleta. 
+20140404122944.600|20140404122947.120|CC1|No es grave, pero sí molesto. 
+20140404122947.160|20140404122949.760|CC1|con el hijo de Isabel Pantoja iniciamos hoy este día 
+20140404122949.800|20140404122951.760|CC1|4 del 4 del 14. 
+20140404122953.880|20140404122955.480|CC1|Kiko Rivera sigue resentido 
+20140404122955.520|20140404122957.880|CC1|del ataque de gota que sufrió hace unos días. 
+20140404122957.920|20140404123000.280|CC1|La muleta se ha convertido en su gran aliado 
+20140404123000.320|20140404123001.720|CC1|a la hora de caminar 
+20140404123001.760|20140404123004.240|CC1|ya que le permite apoyar lo menos posible el pie derecho 
+20140404123004.280|20140404123006.520|CC1|que es el que le duele. 
+20140404123006.560|20140404123008.440|CC1|¿qué tal Kiko, buenas noches? 
+20140404123008.480|20140404123009.960|CC1|Bien, buenas noches. 
+20140404123010.000|20140404123013.200|CC1|¿no sabemos sí es que a lo mejor te ha dado un ataque de gota o algo? 
+20140404123013.240|20140404123014.720|CC1|Bueno, ya tu sabes. 
+20140404123014.760|20140404123016.000|CC1|¿pero que no es nada grave? 
+20140404123016.040|20140404123017.320|CC1|-No, nada grave, gracias. 
+20140404123017.360|20140404123020.280|CC1|Prefiere quitarle importancia y tomarse las cosas con humor. 
+20140404123020.320|20140404123022.720|CC1|Pero lo cierto es que el ataque de ácido úrico que esta vez padece, 
+20140404123022.760|20140404123025.480|CC1|sí es de gravedad con respecto a los que le han dado 
+20140404123025.520|20140404123026.840|CC1|en anteriores ocasiones 
+20140404123026.880|20140404123030.600|CC1|ya que según se ha publicado habría necesitado asistencia médica. 
+20140404123030.640|20140404123033.200|CC1|Se le repite cada mes y medio o dos. 
+20140404123033.240|20140404123034.720|CC1|La gota es una enfermedad 
+20140404123034.760|20140404123036.840|CC1|que el hijo de Isabel Pantoja tiene desde hace años>> 
+20140404123036.880|20140404123039.720|CC1|heredada de su familia paterna. 
+20140404123041.000|20140404123043.120|CC1|¿El tema de la gota no sabíamos que tenía gota? 
+20140404123043.160|20140404123045.040|CC1|Sí, el pobre lo pasa muy mal. 
+20140404123045.080|20140404123046.520|CC1|Eso debe ser horrible, 
+20140404123046.560|20140404123050.240|CC1|yo no sé lo que es pero en mi familia ha habido siempre gota. 
+20140404123050.280|20140404123054.960|CC1|Mi tío Antonio, mi tío José y nosotros, 
+20140404123055.000|20140404123057.480|CC1|yo gracias a Dios no pero eso <creo> que es horrible, no. 
+20140404123057.520|20140404123100.000|CC1|Quien la padece creo que es horroroso. 
+20140404123100.040|20140404123102.200|CC1|Kiko Rivera sabe por prescripción médica 
+20140404123102.240|20140404123104.600|CC1|que debe cuidarse y evitar los* excesos alimenticios, 
+20140404123104.640|20140404123107.640|CC1|precisamente por este motivo# las crisis se le repiten 
+20140404123107.680|20140404123109.880|CC1|de manera intermitente. 
+20140404123109.920|20140404123112.320|CC1|En 2012 era su entonces pareja y madre de su hijo, 
+20140404123112.360|20140404123116.000|CC1|Jessica Bueno, quién vivió con él sus problemas de salud. 
+20140404123118.840|20140404123122.920|CC1|¿qué le pasó exactamente? 
+20140404123122.960|20140404123128.160|CC1|Nada porque es su ataque de gota que le da. 
+20140404123128.200|20140404123132.240|CC1|Entonces le dolía un montón el pie y como eso es algo 
+20140404123132.280|20140404123136.360|CC1|que de pronto le viene el dolor, no pudo controlarlo 
+20140404123136.400|20140404123138.320|CC1|y prefirió quedarse en casa. 
+20140404123139.360|20140404123141.520|CC1|Kiko Rivera asume sus constantes ataques de gota 
+20140404123141.560|20140404123143.160|CC1|con los que ha aprendido a vivir+ 
+20140404123143.200|20140404123144.920|CC1|pero la realidad es que debe poner atención 
+20140404123144.960|20140404123147.080|CC1|y dar prioridad a su salud. 
+20140404123147.120|20140404123148.960|CC1|Tiene que tomárselo- en serio y cuidarse 
+20140404123149.000|20140404123151.680|CC1|porque en esta ocasión la crisis ha sido más grave 
+20140404123151.720|20140404123154.160|CC1|y ahora le afecta también a su trabajo. 
+20140404123200.560|20140404123202.280|CC1|José Ortega Cano ya declaró 
+20140404123202.320|20140404123204.840|CC1|que estaba preparado para un posible ingreso en prisión 
+20140404123204.880|20140404123206.760|CC1|y según están evolucionando las cosas, 
+20140404123206.800|20140404123210.320|CC1|el torero debería estar dejando todo listo para entrar en la cárcel 
+20140404123210.360|20140404123214.200|CC1|en el plazo que marque el Juzgado número 6 de Sevilla. 
+20140404123216.800|20140404123219.680|CC1|José Ortega Cano tiene un pie en la cárcel. 
+20140404123219.720|20140404123222.000|CC1|La última decisión de la Audiencia Provincial 
+20140404123222.040|20140404123223.680|CC1|de Sevilla es contundente. 
+20140404123223.720|20140404123227.360|CC1|El torero pedía que se suspendiese su ingreso en prisión 
+20140404123227.400|20140404123232.040|CC1|mientras +++se tramitaba el indulto y la justicia ha dicho "No". 
+20140404123232.080|20140404123235.520|CC1|Es decir, que Ortega Cano tiene que ir a prisión 
+20140404123235.560|20140404123238.440|CC1|y en breve se establecerán los plazos. 
+20140404123238.480|20140404123241.200|CC1|Los tribunales le dan un nuevo revés. 
+20140404123241.240|20140404123243.440|CC1|Si hacemos caso ---de sus últimas palabras 
+20140404123243.480|20140404123246.000|CC1|ya barajaba esa posibilidad. 
+20140404123246.040|20140404123249.720|CC1|"También le digo que estoy preparándome para lo que sea 
+20140404123249.760|20140404123250.920|CC1|y entonces, 
+20140404123250.960|20140404123253.520|CC1|soy un hombre de fe, 
+20140404123253.560|20140404123255.040|CC1|pero está preparado para entrar en la cárcel 
+20140404123255.080|20140404123256.800|CC1|sí, si, desde luego que sí" 
+20140404123256.840|20140404123300.000|CC1|Es una de las últimas veces que hemos podido verle en público. 
+20140404123300.040|20140404123304.280|CC1|Acompañaba a su hijo en su ingreso en un centro de desintoxicación 
+20140404123304.320|20140404123305.480|CC1|en Barcelona. 
+20140404123305.520|20140404123308.080|CC1|Con José Fernando ya en tratamiento, 
+20140404123308.120|20140404123312.440|CC1|Ortega salía dispuesto a centrarse en sus propios problemas. 
+20140404123313.920|20140404123316.160|CC1|Aunque el ingreso en prisión es inminente, 
+20140404123316.200|20140404123319.000|CC1|sus abogados vuelven a recurrir a su historial clínico 
+20140404123319.040|20140404123320.640|CC1|para evitarlo. 
+20140404123320.680|20140404123323.080|CC1|Enrique Trebolle asegura que Ortega sufre 
+20140404123323.120|20140404123326.120|CC1|una grave dolencia cardíaca, que, en su caso, 
+20140404123326.160|20140404123328.800|CC1|el riesgo de muerte súbita es elevado, 
+20140404123328.840|20140404123330.880|CC1|y verse entre rejas sería un trauma 
+20140404123330.920|20140404123334.880|CC1|con inesperadas consecuencias para su salud. 
+20140404123334.920|20140404123336.400|CC1|A juzgar por sus últimos informes, 
+20140404123336.440|20140404123339.560|CC1|para la Audiencia Provincial estos problemas no le eximen 
+20140404123339.600|20140404123341.440|CC1|de cumplir su pena. 
+20140404123341.480|20140404123345.400|CC1|Los abogados de la familia Parra lo explicaban ante los medios. 
+20140404123345.440|20140404123346.960|CC1|"Dice la Audiencia..." 
+20140404123347.000|20140404123349.960|CC1|"Que las enfermedades invocadas por el señor Ortega Cano 
+20140404123350.000|20140404123352.040|CC1|no son incompatibles con la vida en prisión 
+20140404123352.080|20140404123355.200|CC1|y que si algún agravamiento tuvieran las mismas 
+20140404123355.240|20140404123358.240|CC1|por supuesto tendría la atención debida 
+20140404123358.280|20140404123403.320|CC1|incluso externamente, fuera del órgano penitenciario" 
+20140404123403.360|20140404123406.120|CC1|La Audiencia Provincial de Sevilla se ha pronunciado: 
+20140404123406.160|20140404123409.480|CC1|Ortega Cano tiene que ir a la cárcel. 
+20140404123409.520|20140404123411.640|CC1|El torero se encuentra, más que nunca, 
+20140404123411.680|20140404123415.120|CC1|entre la espada y la pared. 
+20140404123421.120|20140404123423.120|CC1|Quien seguro está acusando especialmente 
+20140404123423.160|20140404123424.840|CC1|este nuevo revés de José Ortega Cano, 
+20140404123424.880|20140404123427.040|CC1|es su hija Gloria Camila. 
+20140404123427.080|20140404123429.920|CC1|Es una chica muy madura pero esta situación en la familia, 
+20140404123429.960|20140404123431.920|CC1|sumado al proceso de rehabilitación de su hermano, 
+20140404123431.960|20140404123435.160|CC1|está siendo una fase delicada para ella. 
+20140404123435.840|20140404123440.080|CC1|"Nos puedes explicar qué te ha ocurrido con esta persona. 
+20140404123440.120|20140404123442.400|CC1|Esta condenado por estafador. 
+20140404123442.440|20140404123444.320|CC1|Cómo te encuentras con esto. 
+20140404123444.360|20140404123447.720|CC1|Él parece ser que te ha denunciado por injurias. 
+20140404123448.840|20140404123450.880|CC1|Unas acusaciones dirigidas 
+20140404123450.920|20140404123453.040|CC1|al representante Javier Vázquez Ansorena, 
+20140404123453.080|20140404123455.840|CC1|que Gloria Camila publicó en su perfil de las redes sociales. 
+20140404123455.880|20140404123457.800|CC1|Fue a través este medio como lo conoció 
+20140404123457.840|20140404123500.200|CC1|y supuestamente acordaron que él dirigiría su carrera 
+20140404123500.240|20140404123501.520|CC1|como actriz. 
+20140404123501.560|20140404123504.120|CC1|Después de que el representante se reuniera con Ortega Cano 
+20140404123504.160|20140404123505.520|CC1|y éste rechazara su oferta, 
+20140404123505.560|20140404123507.800|CC1|Gloria Camila hizo público que había intentado aprovecharse de ella 
+20140404123507.840|20140404123512.880|CC1|y Javier le ha respondido con una denuncia por injurias. 
+20140404123512.920|20140404123517.400|CC1|A su delicada situación familiar, 
+20140404123517.440|20140404123520.600|CC1|con su hermano José Fernando en un centro de rehabilitación 
+20140404123520.640|20140404123523.240|CC1|y su padre, que podría entrar en la cárcel, 
+20140404123523.280|20140404123526.400|CC1|Gloria Camila se enfrenta a un nuevo contratiempo 
+20140404123526.440|20140404123529.800|CC1|que podría terminar en los tribunales. 
+20140404123542.280|20140404123544.160|CC1|Hoy tenemos que mandar un beso de ánimo a Concha Velasco, 
+20140404123544.200|20140404123546.480|CC1|que está ingresada en un hospital madrileño. 
+20140404123546.520|20140404123549.240|CC1|La actriz y presentadora de "Cine de barrio" de TVE, 
+20140404123549.280|20140404123552.280|CC1|va a tener que posponer algunas de sus actuaciones en el teatro, 
+20140404123552.320|20140404123554.640|CC1|pero seguro que pronto mejora. 
+20140404123555.640|20140404123557.000|CC1|La evolución es tan buena 
+20140404123557.040|20140404123559.720|CC1|que su familia espera que el domingo pueda dormir en casa 
+20140404123559.760|20140404123602.040|CC1|pero de momento Concha Velasco continúa ingresada 
+20140404123602.080|20140404123605.200|CC1|tras haber sido operada ayer de apendicitis. 
+20140404123605.240|20140404123607.280|CC1|Tras semanas con molestias 
+20140404123607.320|20140404123609.320|CC1|su hijo Samuel la llevaba a un centro médico, 
+20140404123609.360|20140404123610.800|CC1|que prefieren no precisar, 
+20140404123610.840|20140404123612.600|CC1|y allí ante el cuadro que presentaba, 
+20140404123612.640|20140404123614.720|CC1|decidir intervenir. 
+20140404123615.720|20140404123617.840|CC1|Ahora mismo la actriz sólo tiene un dolor. 
+20140404123617.880|20140404123620.240|CC1|Tener que faltarle a su público. 
+20140404123620.280|20140404123622.400|CC1|El jueves actuaba en Cuenca con su obra Hécuba 
+20140404123622.440|20140404123625.480|CC1|y mañana tenía parada en Salamanca pero por razones obvias, 
+20140404123625.520|20140404123628.280|CC1|quienes compraron las entradas tendrán que esperar 
+20140404123628.320|20140404123631.560|CC1|para ver en acción a la Reina Troyana. 
+20140404123633.160|20140404123634.400|CC1|No sólo con el teatro, 
+20140404123634.440|20140404123637.200|CC1|la actriz tenía el compromiso de acudir hoy en Madrid 
+20140404123637.240|20140404123639.920|CC1|al homenaje que dan a su querido Manolo Escobar 
+20140404123639.960|20140404123643.000|CC1|y también tendrá que perdérselo. 
+20140404123646.120|20140404123649.080|CC1|"Mientras me funcione bien la cabeza, 
+20140404123649.120|20140404123653.120|CC1|hacer este trabajo para mi es el oxígeno de mi vida". 
+20140404123653.160|20140404123656.040|CC1|Trabajadora infatigable, toda su vida ha cumplido la máxima 
+20140404123656.080|20140404123658.520|CC1|de que el espectáculo siempre debe continuar 
+20140404123658.560|20140404123702.480|CC1|y ha bromeado en muchas ocasiones con su mala salud de hierro. 
+20140404123703.840|20140404123709.240|CC1|"Pues fíjate que estoy malísima, mañana me van a hacer una ecografía 
+20140404123709.280|20140404123713.040|CC1|porque he tenido de hígado, he tenido varias afonías. 
+20140404123713.080|20140404123719.520|CC1|"y ando un poquillo pachuchilla, pero vamos nada que no tenga cura". 
+20140404123719.560|20140404123722.360|CC1|Apasionada y visceral en su trabajo y con su familia, 
+20140404123722.400|20140404123726.720|CC1|ha sido el apéndice el órgano que le ha jugado esta mala pasada. 
+20140404123726.760|20140404123728.080|CC1|Un pequeño contratiempo 
+20140404123728.120|20140404123731.760|CC1|que Concha Velasco espera muy pronto dejar atrás. 
+20140404123738.320|20140404123741.080|CC1|Lamentablemente tenemos que dar le pésame a la familia 
+20140404123741.120|20140404123744.560|CC1|del actor Pere Ventura que ha fallecido a los 54 años 
+20140404123744.600|20140404123747.120|CC1|a causa de una parada cardiorrespiratoria. 
+20140404123747.160|20140404123750.480|CC1|El actor catalán se encontraba en Madrid por motivos profesionales. 
+20140404123750.520|20140404123752.520|CC1|Trabajó en teatro, en multitud de películas 
+20140404123752.560|20140404123754.400|CC1|y participó en numerosas series de televisión, 
+20140404123754.440|20140404123756.240|CC1|como 'Cuéntame cómo pasó' 
+20140404123756.280|20140404123758.080|CC1|y 'Gran Reserva', ambas de esta casa. 
+20140404123758.120|20140404123800.080|CC1|Su último papel lo estuvo interpretando 
+20140404123800.120|20140404123802.120|CC1|hasta el pasado mes de enero en la Ciudad Condal, 
+20140404123802.160|20140404123804.600|CC1|donde sus restos mortales serán trasladados 
+20140404123804.640|20140404123806.960|CC1|en las próximas horas. 
+20140404123812.960|20140404123814.240|CC1|Seguimos. 
+20140404123814.280|20140404123817.480|CC1|Norma Duval vive un fantástico momento en todos los sentidos. 
+20140404123817.520|20140404123819.760|CC1|Orgullosa abuela, madre y pareja de Mathias Kunn, 
+20140404123819.800|20140404123821.800|CC1|cada lunes disfrutamos con ella en el programa 
+20140404123821.840|20140404123823.000|CC1|"Mira quien baila". 
+20140404123823.040|20140404123824.760|CC1|Pero hoy vamos a hablar de ella por otro motivo, 
+20140404123824.800|20140404123826.720|CC1|también para celebrar. 
+20140404123828.040|20140404123830.000|CC1|No todo el mundo puede presumir 
+20140404123830.040|20140404123833.040|CC1|de haber alcanzado una vida tan plena como Norma Duval. 
+20140404123833.080|20140404123835.400|CC1|Es cierto que ser abuela, el amor de su novio 
+20140404123835.440|20140404123838.320|CC1|y que a los suyos las cosas les vaya bien, 
+20140404123838.360|20140404123841.080|CC1|son buenas razones, pero no las únicas. 
+20140404123842.040|20140404123843.800|CC1|Me siento con ganas de vivir, 
+20140404123843.840|20140404123848.320|CC1|ilusiones y pensar que no lo has hecho todo en la vida 
+20140404123848.360|20140404123851.240|CC1|y miras hacia atrás y dios mío 
+20140404123851.280|20140404123853.880|CC1|qué de camino recorrido... 
+20140404123859.640|20140404123904.120|CC1|Un camino que inició en 1973 cuando ganó el certamen de Miss Madrid. 
+20140404123904.160|20140404123906.040|CC1|Aquello le abrió muchas puertas, 
+20140404123906.080|20140404123908.960|CC1|pero fue su decisión de marcharse a París con 6 maletas 
+20140404123909.000|20140404123912.160|CC1|y sin conocer a nadie lo que cambió el rumbo de su vida. 
+20140404123912.200|20140404123914.520|CC1|En 1980 escribía su nombre 
+20140404123914.560|20140404123916.920|CC1|en la historia del "Folí beryé" 
+20140404123918.000|20140404123921.360|CC1|y allí afianzaba una exitosa carrera como vedette. 
+20140404123936.720|20140404123939.960|CC1|Esto de la revista tiene un tiempo corto, 
+20140404123940.000|20140404123945.480|CC1|una vedette a partir de los 35 años tiene que pensar en retirarse. 
+20140404123953.560|20140404123956.480|CC1|Lo de retirarse tardó mucho más de lo que pensaba. 
+20140404123956.520|20140404123958.520|CC1|Tres décadas sobre los escenarios, 
+20140404123958.560|20140404124001.360|CC1|experiencias con las que ni se atrevió a soñar 
+20140404124001.400|20140404124003.560|CC1|y una vida personal plena. 
+20140404124003.600|20140404124005.320|CC1|Está muy orgullosa de sus tres hijos, 
+20140404124005.360|20140404124007.720|CC1|Marco, Yelko y Christian. 
+20140404124007.760|20140404124009.800|CC1|Siempre quiso tener una niña 
+20140404124009.840|20140404124011.640|CC1|y de cierta forma lo ha conseguido, 
+20140404124011.680|20140404124014.400|CC1|adora a su nuera Patricia y sus sobrinas Paula y Andrea 
+20140404124014.440|20140404124017.480|CC1|viven con ella desde la muerte de su hermana Carla, 
+20140404124017.520|20140404124020.320|CC1|el capítulo más triste de su vida. 
+20140404124020.360|20140404124022.520|CC1|Pero si hay algo que le hace plenamente feliz 
+20140404124022.560|20140404124027.160|CC1|y con lo que se siente realizada es con su faceta de abuela. 
+20140404124027.200|20140404124031.680|CC1|Yo estoy feliz, yo adoraba a mi abuela 
+20140404124031.720|20140404124035.760|CC1|y poder llegar a ser abuela es fantástico. 
+20140404124036.840|20140404124038.400|CC1|La vida le sonríe. 
+20140404124038.440|20140404124042.800|CC1|Norma Duval cumple 58 años y tiene mucho que celebrar. 
+20140404124051.000|20140404124053.640|CC1|Johnny Depp ha anunciado que se casa. 
+20140404124053.680|20140404124057.560|CC1|Al actor de 50 años se ha prometido con la actriz Amber Heard, 
+20140404124057.600|20140404124101.200|CC1|23 años más joven que él. 
+20140404124101.240|20140404124103.280|CC1|Acaba de aparecer en una entrevista 
+20140404124103.320|20140404124106.040|CC1|luciendo en la mano izquierda un anillo de compromiso. 
+20140404124106.080|20140404124107.640|CC1|Está decidido, aunque algunos de sus compañeros 
+20140404124107.680|20140404124111.000|CC1|le han intentado disuadir, entre ellos Angelina Jolie. 
+20140404124111.040|20140404124114.920|CC1|Johhny Depp estuvo casado con Vanesa Paradis hasta 2012, 
+20140404124114.960|20140404124117.560|CC1|aunque conoció a su futura mujer en un rodaje, 
+20140404124117.600|20140404124120.240|CC1|unos años antes de separarse. 
+20140404124122.400|20140404124125.360|CC1|Aquí también tenemos a hombres comprometidos con sus mujeres 
+20140404124125.400|20140404124127.200|CC1|y bien elegantes y guapos. 
+20140404124127.240|20140404124129.440|CC1|Si hay alguien que encarna la elegancia en el Real Madrid, 
+20140404124129.480|20140404124131.120|CC1|ese es Xabi Alonso. 
+20140404124131.160|20140404124133.000|CC1|Hoy os traemos una imágenes del centrocampista 
+20140404124133.040|20140404124134.720|CC1|que os van a encandilar. 
+20140404124139.840|20140404124142.640|CC1|Es uno de los futbolistas más atractivos de nuestra liga 
+20140404124142.680|20140404124145.600|CC1|y también modelo ocasional para una línea de moda 
+20140404124145.640|20140404124149.160|CC1|que ha vuelto a apostar por Xabi Alonso. 
+20140404124154.560|20140404124156.640|CC1|Un protagonista de lujo 
+20140404124156.680|20140404124159.520|CC1|al que se han llevado hasta la idílica isla de Capri. 
+20140404124159.560|20140404124201.480|CC1|El centrocampista del Real Madrid 
+20140404124201.520|20140404124204.120|CC1|es ya todo un experto frente a los flashes de las cámaras 
+20140404124204.160|20140404124206.520|CC1|y también en eso de la paternidad. 
+20140404124206.560|20140404124209.680|CC1|Desde el pasado 2 de diciembre, con el nacimiento de Emma, 
+20140404124209.720|20140404124212.640|CC1|ya son familia numerosa en casa. 
+20140404124212.680|20140404124215.320|CC1|"Hombre lógicamente el hecho de tener tres hijos 
+20140404124215.360|20140404124218.880|CC1|sí que te da esa madurez o esa responsabilidad 
+20140404124218.920|20140404124222.080|CC1|de tener que ser un ejemplo para ellos y educarlos 
+20140404124222.120|20140404124224.520|CC1|pero lo estoy disfrutando mucho". 
+20140404124224.560|20140404124228.520|CC1|"Cada uno con su etapa diferente. 
+20140404124228.560|20140404124232.240|CC1|Tenemos a Jon de 6 a Anne de 4 y a Emma que tiene ahora 4 meses. 
+20140404124232.280|20140404124236.800|CC1|Y vas reviviendo momentos que ya se te habían olvidado. 
+20140404124236.840|20140404124241.400|CC1|Por lo tanto pues muy ocupado en casa también" 
+20140404124241.440|20140404124242.840|CC1|Él ya tiene experiencia 
+20140404124242.880|20140404124245.000|CC1|y seguro que ha podido dar algunos consejos 
+20140404124245.040|20140404124247.280|CC1|a su compañero Iker Casillas, 
+20140404124247.320|20140404124249.800|CC1|aunque todavía no ha visto al pequeño Martin, 
+20140404124249.840|20140404124253.160|CC1|el primogénito del guardameta y Sara Carbonero. 
+20140404124253.200|20140404124256.040|CC1|"No todavía no le he podido conocer 
+20140404124256.080|20140404124257.680|CC1|¿Y le has regalado algo? 
+20140404124257.720|20140404124300.040|CC1|Pues creo que mi mujer sí le ha regalado algo 
+20140404124300.080|20140404124303.880|CC1|¿Pero no sabes lo que es? pues ahora mismo no sabría decírtelo" 
+20140404124303.920|20140404124305.720|CC1|Parece que en su caso se cumple 
+20140404124305.760|20140404124309.280|CC1|eso de que de los detalles se encarga ella, Nagore Aramburu, 
+20140404124309.320|20140404124312.560|CC1|su media naranja desde que se conocieron en 2003, 
+20140404124312.600|20140404124317.040|CC1|pasaron por el altar 6 años después y hoy forman una familia unida 
+20140404124317.080|20140404124319.440|CC1|y un sólido matrimonio 
+20140404124319.480|20140404124322.080|CC1|en el que sus tres hijos son su mayor tesoro. 
+20140404124322.120|20140404124324.160|CC1|"Paso mucho tiempo con ellos 
+20140404124324.200|20140404124326.880|CC1|e intento sobre todo educarlos con el ejemplo. 
+20140404124326.920|20140404124329.840|CC1|Siendo una buena persona y enseñándoles 
+20140404124329.880|20140404124333.000|CC1|que hay que tener mucho respeto por todo" 
+20140404124333.040|20140404124336.040|CC1|Son los principios de los que Xabi siempre ha hecho gala 
+20140404124336.080|20140404124338.600|CC1|y que quiere trasladar a sus hijos. 
+20140404124338.640|20140404124343.560|CC1|A la vista está que tienen un padre modelo en todos los sentidos. 
+20140404124354.800|20140404124401.000|CC1|A Bertín Osborne se le nota lo feliz que está. 
+20140404124401.040|20140404124404.040|CC1|Y no es para menos. 
+20140404124404.080|20140404124406.720|CC1|Sus hijas le dan grandes alegrías. 
+20140404124406.760|20140404124409.440|CC1|Aunque la última, 
+20140404124409.480|20140404124412.160|CC1|se la ha dado su nieta Sandra, hija de Eugenia, 
+20140404124412.200|20140404124414.680|CC1|que ha salido adelante como una bebé fuerte y luchadora. 
+20140404124414.720|20140404124416.840|CC1|Ya tienen fecha para bautizarla 
+20140404124416.880|20140404124419.840|CC1|y el orgulloso abuelo sólo tiene piropos para la pequeña. 
+20140404124421.920|20140404124423.560|CC1|Se le ve relajado, feliz, 
+20140404124423.600|20140404124428.120|CC1|la alegría de Bertín Osborne tiene nombre de mujer. 
+20140404124428.160|20140404124431.600|CC1|Ah, sí sí, ademas la bautizamos ya este mes, osea que bien. 
+20140404124431.640|20140404124433.960|CC1|Fenomenal, guapísima además. 
+20140404124434.000|20140404124438.160|CC1|Pesa cuatro kilos, está más fuerte y es el orgullo de su abuelo. 
+20140404124438.200|20140404124440.600|CC1|Sandra, la nieta menor del cantante, 
+20140404124440.640|20140404124443.960|CC1|mejora con el paso de los días y será bautizada este mes. 
+20140404124444.000|20140404124446.240|CC1|Qué mejor noticia para su familia, 
+20140404124446.280|20140404124449.440|CC1|volcada en la pequeña desde el día en que nació. 
+20140404124449.480|20140404124453.880|CC1|Abuelos, padres y tíos han estado siempre pendientes de su evolución. 
+20140404124453.920|20140404124502.720|CC1|Mi padre es súper fuerte, sí. 
+20140404124502.760|20140404124505.000|CC1|Nosotros nos hacemos fuertes con las circunstancias. 
+20140404124505.040|20140404124507.720|CC1|A nosotros nos han pasado muchas cosas 
+20140404124507.760|20140404124510.560|CC1|en nuestra familia de diez años para acá. 
+20140404124510.600|20140404124513.280|CC1|Entonces pues al final te vas haciendo fuerte 
+20140404124513.320|20140404124514.920|CC1|pero por obligación, ¿no? 
+20140404124514.960|20140404124516.600|CC1|A sus siete años, 
+20140404124516.640|20140404124519.080|CC1|su hijo Kike avanza poco a poco en su recuperación, 
+20140404124519.120|20140404124521.320|CC1|cada día habla más, se comunica mejor 
+20140404124521.360|20140404124525.120|CC1|y está trabajando para conseguir dar sus primeros pasos. 
+20140404124525.160|20140404124527.480|CC1|Llevamos peleando con eso seis años, 
+20140404124527.520|20140404124530.200|CC1|osea que en algún momento espero que se pueda. 
+20140404124530.240|20140404124533.960|CC1|Ahora estamos con unas cosas nuevas, unas terapias nuevas, a ver. 
+20140404124534.000|20140404124537.960|CC1|Su mujer, la venezolana Fabiola Martínez, 
+20140404124538.000|20140404124542.560|CC1|le robó el corazón hace más de diez años 
+20140404124542.600|20140404124547.280|CC1|y a Bertín se le ve tan enamorado como el primer día. 
+20140404124550.200|20140404124552.480|CC1|En mi caso y en el de todos. 
+20140404124552.520|20140404124555.160|CC1|Sí, si uno no está bien en casa, tranquilo, 
+20140404124555.200|20140404124557.040|CC1|con una vida organizada, 
+20140404124557.080|20140404124600.520|CC1|es difícil que es lo transmitas eso a tu vida profesional 
+20140404124600.560|20140404124604.040|CC1|y en mi caso estoy tranquilo en todos los sentidos. 
+20140404124604.080|20140404124606.160|CC1|Tranquilo y muy bien acompañado, 
+20140404124606.200|20140404124609.440|CC1|sobre las tablas de los teatros por su amigo Arévalo 
+20140404124609.480|20140404124611.840|CC1|y en su día a día por su familia, 
+20140404124611.880|20140404124615.040|CC1|el bien mas preciado de Bertín Osborne, marido entregado, 
+20140404124615.080|20140404124618.920|CC1|padre ejemplar y orgulloso abuelo. 
+20140404124643.360|20140404124645.240|CC1|El próximo miércoles es la fecha 
+20140404124645.280|20140404124647.200|CC1|para el inicio del juicio en el que Ana Torroja 
+20140404124647.240|20140404124648.680|CC1|tendrá que hacer frente 
+20140404124648.720|20140404124650.920|CC1|a una posible pena de tres años y tres meses 
+20140404124650.960|20140404124653.160|CC1|por un delito de evasión de capitales. 
+20140404124653.200|20140404124655.920|CC1|La ex componente de Mecano ha declarado siempre haber dejado 
+20140404124655.960|20140404124657.880|CC1|el asunto en manos de sus abogados 
+20140404124657.920|20140404124700.040|CC1|e intentar colaborar en todo lo posible. 
+20140404124701.320|20140404124704.040|CC1|En el horizonte de Ana Torroja se avecinan días, 
+20140404124704.080|20140404124705.680|CC1|cuanto menos, tensos. 
+20140404124705.720|20140404124707.400|CC1|Será la próxima semana, los días nueve, 
+20140404124707.440|20140404124710.200|CC1|diez y once de abril cuando se siente en el banquillo 
+20140404124710.240|20140404124712.920|CC1|del juzgado de lo penal número cinco de Palma de Mallorca 
+20140404124712.960|20140404124715.280|CC1|para ser juzgada por dos delitos fiscales. 
+20140404124715.320|20140404124719.040|CC1|La cantante está en el ojo de la Hacienda Pública desde 2007 
+20140404124719.080|20140404124721.280|CC1|cuando el juez abrió diligencias 
+20140404124721.320|20140404124725.080|CC1|contra el bufete de abogados del que la cantante era cliente. 
+20140404124725.120|20140404124727.480|CC1|Durante la investigación salió a la luz su nombre, 
+20140404124727.520|20140404124728.680|CC1|ya que para cerrar la compra 
+20140404124728.720|20140404124731.160|CC1|de un chalé en la localidad balear de Andratx 
+20140404124731.200|20140404124733.400|CC1|recurrió a los servicios de este bufete. 
+20140404124733.440|20140404124737.280|CC1|La que fuese voz de Mecano siempre ha negado las acusaciones. 
+20140404124737.320|20140404124740.440|CC1|¿Se te implica en la operación relámpago que debes 650.000 euros? 
+20140404124740.480|20140404124744.640|CC1|No voy a hablar del tema. 
+20140404124744.680|20140404124748.800|CC1|¿Tienes algo que decir? -De eso no voy a hablar, gracias. 
+20140404124748.840|20140404124751.440|CC1|Fue citada a declarar en dos ocasiones 
+20140404124751.480|20140404124754.400|CC1|en el juzgado y ambas se negó a hacerlo. 
+20140404124754.440|20140404124756.680|CC1|A finales del año pasado, por primera vez, 
+20140404124756.720|20140404124759.360|CC1|hablaba públicamente de su acusación. 
+20140404124759.400|20140404124803.000|CC1|Lo mío está solucionándose o en vias de solución. 
+20140404124803.040|20140404124807.160|CC1|En manos de los abogados y haciendo lo que se puede. 
+20140404124807.200|20140404124808.600|CC1|Pero la solución no ha llegado. 
+20140404124808.640|20140404124810.960|CC1|La defensa ha intentado pactar con la fiscalía 
+20140404124811.000|20140404124814.040|CC1|para abonar las cantidades supuestamente defraudadas 
+20140404124814.080|20140404124815.720|CC1|y evitar así ir a juicio 
+20140404124815.760|20140404124818.400|CC1|pero finalmente no han llegado a un acuerdo. 
+20140404124818.440|20140404124820.360|CC1|Los investigadores le acusan 
+20140404124820.400|20140404124823.360|CC1|de ocultar al fisco un millón 200.000 euros. 
+20140404124823.400|20140404124825.920|CC1|Según la fiscalía, el fraude habría tenido lugar 
+20140404124825.960|20140404124829.160|CC1|en las declaraciones de los años 2006 y 2007 mientras 
+20140404124829.200|20140404124830.880|CC1|que la Abogacía del Estado 
+20140404124830.920|20140404124832.840|CC1|también cree que habría hecho lo mismo 
+20140404124832.880|20140404124837.200|CC1|en los ejercicios de los años que van de 2001 a 2004. 
+20140404124844.840|20140404124846.840|CC1|La cantante se enfrenta a penas 
+20140404124846.880|20140404124849.400|CC1|que van de los 18 meses de prisión que pide el fiscal, 
+20140404124849.440|20140404124851.720|CC1|los tres años y tres meses 
+20140404124851.760|20140404124853.360|CC1|que reclama la Abogacía del Estado. 
+20140404124853.400|20140404124857.680|CC1|A esto habría que sumar una multa de 463.000 euros. 
+20140404124857.720|20140404124900.560|CC1|Se acerca el momento que---- Ana Torroja ha intentado evitar. 
+20140404124900.600|20140404124904.280|CC1|El próximo miércoles está citada a las nueve de la mañana 
+20140404124904.320|20140404124908.760|CC1|en el juzgado de lo penal de Palma de Mallorca. 
+20140404124929.880|20140404124933.080|CC1|Si hay algo que nos gusta de Laura Sánchez, es su sonrisa. 
+20140404124933.120|20140404124935.160|CC1|No es algo nuevo, 
+20140404124935.200|20140404124937.200|CC1|pero si por ello se lleva un premio, en estos delicados momentos, 
+20140404124937.240|20140404124939.960|CC1|nos gusta más que nunca. 
+20140404124940.000|20140404124943.400|CC1|La modelo ha recogido el galardón con el optimismo que le caracteriza. 
+20140404124959.040|20140404125001.680|CC1|Recibe un premio a la mejor sonrisa 
+20140404125001.720|20140404125005.440|CC1|esa que Laura Sánchez siempre pone a todo lo que hace en su vida 
+20140404125005.480|20140404125008.640|CC1|porque es la manera más sencilla, dice, de afrontarla. 
+20140404125008.680|20140404125011.840|CC1|Yo creo que la sonrisa es una cuestión de actitud 
+20140404125011.880|20140404125015.320|CC1|y hay días que te levantas mal 
+20140404125015.360|20140404125019.880|CC1|y bajas en el ascensor con cara mustia y no es bonita 
+20140404125019.920|20140404125021.720|CC1|dices tú, vamos a hacer un esfuerzo 
+20140404125021.760|20140404125024.400|CC1|y la vida con sonrisa es mucho más fácil. 
+20140404125024.440|20140404125026.560|CC1|Y así se toma también el espinoso asunto 
+20140404125026.600|20140404125029.240|CC1|de la custodia de Naia, la hija de siete años 
+20140404125029.280|20140404125032.080|CC1|que tiene en común con Aitor Ocio, su ex pareja. 
+20140404125032.120|20140404125034.680|CC1|Acaban de volver a verse las caras ante un juez. 
+20140404125034.720|20140404125037.960|CC1|La modelo ha pedido que la niña se vaya a vivir con ella a Madrid. 
+20140404125038.000|20140404125041.000|CC1|Desde hace tres años lo hace en Bilbao con su padre. 
+20140404125042.440|20140404125045.320|CC1|-Ya lo sabéis que yo hace tiempo que no hablo de este tema 
+20140404125045.360|20140404125047.480|CC1|desde hace tiempo, y seguiré así. 
+20140404125047.520|20140404125049.400|CC1|Eres positiva con respecto a este tema 
+20140404125049.440|20140404125052.600|CC1|-Soy positiva en la vida siempre, siempre. 
+20140404125052.640|20140404125054.760|CC1|Pero tienes motivos para celebrarlo. 
+20140404125054.800|20140404125056.600|CC1|-No te voy a hablar 
+20140404125056.640|20140404125059.280|CC1|El ex-futbolista y Laura llegaron en 2011 a un acuerdo 
+20140404125059.320|20140404125100.760|CC1|sobre su custodia. 
+20140404125100.800|20140404125102.320|CC1|El asunto parecía resuelto 
+20140404125102.360|20140404125105.480|CC1|pero ahora ha vuelto a aparecer en escena. 
+20140404125105.520|20140404125108.200|CC1|Yo creo que tengo muchos motivos para sonreír 
+20140404125108.240|20140404125110.520|CC1|y el primero es que tengo salud y los míos tienen saluda 
+20140404125110.560|20140404125114.320|CC1|eso hace que tenga una sonrisa permanente. 
+20140404125116.080|20140404125122.000|CC1|Ahí sigue habiendo una forma de entender diferente de entender 
+20140404125122.040|20140404125125.120|CC1|o de creer y hace que sea así 
+20140404125125.160|20140404125130.560|CC1|pero yo con el máximo respeto fundamentalmente por mi hija. 
+20140404125130.600|20140404125134.600|CC1|Ambos han rehecho sus vidas, Aitor Ocio al lado de Covi Riva, 
+20140404125134.640|20140404125138.120|CC1|una madrileña de 27 años con la que lleva uno de relación 
+20140404125138.160|20140404125140.760|CC1|y Laura Sánchez con el músico David Ascanio. 
+20140404125140.800|20140404125144.280|CC1|Ellos son su mayor apoyo en los malos momentos. 
+20140404125155.080|20140404125156.080|CC1|Si os digo. 
+20140404125156.120|20140404125158.080|CC1|Pep Guardiola. 
+20140404125158.120|20140404125200.760|CC1|Su trayectoria profesional es incuestionable, 
+20140404125200.800|20140404125204.000|CC1|pero hoy lo destacamos por otro motivo obvio. 
+20140404125204.040|20140404125206.440|CC1|Su atractivo. 
+20140404125206.480|20140404125208.360|CC1|Él es el único español 
+20140404125208.400|20140404125211.440|CC1|en una relación de los hombres más "interesantes" vamos a decir, 
+20140404125211.480|20140404125215.360|CC1|de una publicación alemana. 
+20140404125215.400|20140404125218.520|CC1|Esta tarde tenemos una cita en La 1, a las 20.30. 
+20140404125218.560|20140404125221.040|CC1|Hasta luego. 
+20140404125235.400|20140404125237.400|CC1|Pep Guardiola no pasa desapercibido, 
+20140404125237.440|20140404125239.280|CC1|ni en Munich, ni en el resto del mundo. 
+20140404125239.320|20140404125240.680|CC1|El entrenador del Bayern 
+20140404125240.720|20140404125243.840|CC1|ha sido elegido el tercer hombre más atractivo y sensual del planeta 
+20140404125243.880|20140404125246.800|CC1|según la edición alemana de la revista Elle. 
+20140404125248.000|20140404125251.080|CC1|El catalán tiene clase, elegancia y mucho carisma 
+20140404125251.120|20140404125254.800|CC1|y sus estilismos en el campo y fuera de él rozan la excelencia, 
+20140404125254.840|20140404125259.640|CC1|en España y en el resto de Europa. 
+20140404125310.160|20140404125314.000|CC1|Pep presume de ser guapo, de liderar todo lo que toca, 
+20140404125314.040|20140404125316.280|CC1|y de saber bailar. 
+20140404125322.920|20140404125326.600|CC1|Sólo le supera Chris Hemsworth, el marido de Elsa Pataky. 
+20140404125326.640|20140404125328.760|CC1|El recién estrenado papa de mellizos, 
+20140404125328.800|20140404125332.520|CC1|encabeza la lista de los más deseados. 
+20140404125336.360|20140404125339.280|CC1|El actor australiano gana por goleada a Pep, 
+20140404125339.320|20140404125342.480|CC1|con un estilo mucho más anglosajón y un físico irresistible, 
+20140404125342.520|20140404125344.400|CC1|que consigue a base de deporte. 
+20140404125344.440|20140404125347.000|CC1|Elsa sabe que su marido tiene éxito, pero no es celosa, 
+20140404125347.040|20140404125350.040|CC1|porque es una pareja que lo tienen muy claro. 
+20140404125356.200|20140404125400.200|CC1|Acaba de cumplir 37 años y el actor, Michael Fassbender 
+20140404125400.240|20140404125403.200|CC1|despierta ahora más que nunca una enorme expectación, 
+20140404125403.240|20140404125406.680|CC1|tal vez por el halo de misterio que le rodea. 
+20140404125408.280|20140404125410.440|CC1|El alemán, que decidió llevarse 
+20140404125410.480|20140404125413.080|CC1|a su madre a la última edición de los premios Oscar, 
+20140404125413.120|20140404125414.920|CC1|es un seductor nato. 
+20140404125414.960|20140404125418.280|CC1|Su punto fuerte: su sonrisa y mirada desafiante. 
+20140404125426.440|20140404125430.040|CC1|Ryan Gosling destaca tanto por su talento interpretativo, 
+20140404125430.080|20140404125432.800|CC1|como por su personalidad y cuerpo bien tonificado. 
+20140404125432.840|20140404125436.080|CC1|Su relación con Eva Mendes no atraviesa el mejor momento, 
+20140404125436.120|20140404125439.280|CC1|pero el canadiense se refugia en su música y en su perro George, 
+20140404125439.320|20140404125444.200|CC1|su fiel compañero de piso en Manhattan. 
+20140404125445.240|20140404125446.600|CC1|A Leonardo Di Caprio 
+20140404125446.640|20140404125450.000|CC1|le gusta salir con mujeres guapas y elige casi siempre a modelos. 
+20140404125450.040|20140404125451.520|CC1|El no se queda atrás. 
+20140404125451.560|20140404125453.640|CC1|El actor es otro de los más atractivos. 
+20140404125453.680|20140404125457.880|CC1|Sus papeles en el cine aumentan su caché. 
+20140404125502.120|20140404125505.360|CC1|Todos ellos levantan pasiones y son irresistibles, 
+20140404125505.400|20140404125508.920|CC1|y uno de los que más deseados es Pep Guardiola. 
+20140404125548.760|20140404125550.760|CC1|Nueve detenidos en Madrid en las últimas horas 
+20140404125550.800|20140404125553.480|CC1|por su presunta relación con los incidentes registrados 
+20140404125553.520|20140404125556.440|CC1|tras las manifestaciones del 22M. 
+20140404125556.480|20140404125559.120|CC1|La operación se ha bautizado como Puma 70 en alusión 
+20140404125559.160|20140404125601.880|CC1|al grupo de antidisturbios que aquel día sufrió 
+20140404125601.920|20140404125604.840|CC1|las mayores agresiones. 
+20140404125604.880|20140404125608.680|CC1|Entre los detenidos hay supuestos miembros de grupos anarquistas, 
+20140404125608.720|20140404125612.160|CC1|antifascistas y 'bukaneros', los hinchas radicales del Rayo Vallecano 
+20140404125612.200|20140404125615.960|CC1|Qué tal, buenas tardes. 
+20140404125616.000|20140404125617.960|CC1|La prima de riesgo que mide lo que nuestro país 
+20140404125618.000|20140404125620.640|CC1|paga más que Alemania por la deuda pública 
+20140404125620.680|20140404125623.720|CC1|se sitúa por debajo de los 160 puntos básicos, 
+20140404125623.760|20140404125626.400|CC1|muy lejos de los 700 que alcanzó en plena crisis. 
+20140404125626.440|20140404125628.040|CC1|Esta mañana, por ejemplo, 
+20140404125628.080|20140404125632.480|CC1|el interés de los bonos españoles a cinco años 
+20140404125632.520|20140404125636.520|CC1|era inferior al que los inversores exigen a Estados Unidos. 
+20140404125636.560|20140404125638.840|CC1|Estos descensos se traduce en un importante ahorro 
+20140404125638.880|20140404125642.680|CC1|tanto para el Estado como para las empresas. 
+20140404125646.320|20140404125649.240|CC1|Y un día después, la infracción de tráfico de Esperanza Aguirre 
+20140404125649.280|20140404125652.320|CC1|sigue siendo uno de los temas más comentados. 
+20140404125652.360|20140404125655.800|CC1|La presidenta del PP madrileño ha reconocido su error, 
+20140404125655.840|20140404125657.840|CC1|ha pedido disculpas pero insiste 
+20140404125700.000|20140404125704.280|CC1|La presidenta del PP madrileño ha reconocido su error, 
+20140404125704.320|20140404125706.680|CC1|ha pedido disculpas pero insiste 
+20140404125706.720|20140404125709.440|CC1|en que los agentes actuaron de forma machista 
+20140404125709.480|20140404125712.880|CC1|y la retuvieron innecesariamente por ello, añade, abandonó la zona. 
+20140404125712.920|20140404125716.280|CC1|La policía municipal asegura que la siguió entonces y al no detenerse, 
+20140404125716.320|20140404125720.200|CC1|llegaron hasta el /garaje de su casa Ana Botella, la alcaldesa de Madrid, 
+20140404125720.240|20140404125722.480|CC1|ha dicho que la "ley es igual para \todos" 
+20140404125722.520|20140404125725.280|CC1|lo mismo que la número dos del PSOE, Elena Valenciano. 
+END|20140404130054|2014-04-04_1229_ES_La-1_Noticias_24_horas

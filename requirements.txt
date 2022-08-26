@@ -1,0 +1,5 @@
+spacy==3.4.1
+spylls==0.1.7
+happytransformer==2.4.1
+en-core-web-md @ https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.4.0/en_core_web_md-3.4.0-py3-none-any.whl
+es-core-news-md @ https://github.com/explosion/spacy-models/releases/download/es_core_news_md-3.4.0/es_core_news_md-3.4.0-py3-none-any.whl
