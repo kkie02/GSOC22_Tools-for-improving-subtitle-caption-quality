@@ -31,7 +31,7 @@ This project is aimed to improve offer both spell and grammar checkers to suppor
 
 Red Hen Lab uses Hunspell as their spell checker, but the original Hunspell reports right spelling as wrong frequently. To solve this problem, I add the NER function and an extra English word recognition function to the Hunspell. Besides, I used some simple methods like combining dictionaries and extending dictionaries to get a better dictionary that suits the daily life of Red Hen Lab.
 
-For the grammar checker, I choose a Huggingface model which was continued pre-trained under the Spanish [CC-NEWS-ES-titles](https://huggingface.co/datasets/LeoCordoba/CC-NEWS-ES-titles) dataset, then fine-tune this model under the cowsl2h(https://github.com/ucdaviscl/cowsl2h) grammar error correction (GER) dataset. But the GER dataset was created by using foreign students who just learn Spanish for a short time, this domain differs from news dramatically, so it didn't perform well. I will try to find a better GER dataset and try other methods later.
+For the grammar checker, I choose a Huggingface model which was continued pre-trained under the Spanish [CC-NEWS-ES-titles](https://huggingface.co/datasets/LeoCordoba/CC-NEWS-ES-titles) dataset, then fine-tune this model under the [cowsl2h](https://github.com/ucdaviscl/cowsl2h) grammar error correction (GER) dataset. But the GER dataset was created by using foreign students who just learn Spanish for a short time, this domain differs from news dramatically, so it didn't perform well. I will try to find a better GER dataset and try other methods later.
 
 The detailed working of this tool is included in the final submission blog.
 
