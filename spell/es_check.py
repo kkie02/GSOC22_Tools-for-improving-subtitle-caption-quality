@@ -1,13 +1,15 @@
-import re
+import re, os
 import spacy
 from spylls.hunspell import *
 from spylls.hunspell import readers
-from utils import rm_punca, ner_model
+from spell.utils import rm_punca, ner_model
 
 class ES_checker():
-    def __init__(self, file, dictionary='./dictionary/es_red'):
+    def __init__(self, file, dictionary='es_red'):
+        cur_dir = os.getcwd()
         self.file = file
-        self.main_dictionary = dictionary
+        self.main_dictionary = cur_dir + './spell/dictionary/' + dictionary
+        self.en_dictionary = cur_dir + './spell/dictionary/' + 'en_US'
 
     def check(self):
         # Set ner model's name
@@ -16,8 +18,9 @@ class ES_checker():
         ner = ner_model(_ner_model_name)
 
         # Load main dictionary and sub dictionary,
+        print(self.main_dictionary)
         es_dictionary = Dictionary.from_files(self.main_dictionary)
-        en_dictionary = Dictionary.from_files('./dictionary/en_US')
+        en_dictionary = Dictionary.from_files(self.en_dictionary)
 
 
         # Suggest and lookup instantiation

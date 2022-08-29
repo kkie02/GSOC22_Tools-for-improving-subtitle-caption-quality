@@ -2,12 +2,13 @@ import re
 import spacy
 from spylls.hunspell import *
 from spylls.hunspell import readers
-from utils import rm_punca, ner_model
+from spell.utils import rm_punca, ner_model
 
 class EN_checker():
-    def __init__(self, file, dictionary='./dictionary/en_US'):
+    def __init__(self, file, dictionary='en_US'):
+        cur_dir = os.getcwd()
         self.file = file
-        self.dic_path = dictionary
+        self.dic_path = cur_dir + './spell/dictionary/' + dictionary
 
     def check(self):
         # Set ner model's name

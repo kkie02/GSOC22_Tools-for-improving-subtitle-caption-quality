@@ -15,19 +15,19 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     print(f'Start to load file {args.file}')
-    if args.dictionary == '0':
-        if args.language == 'es':
+    if args.dict == '0':
+        if args.lag == 'es':
             ES = ES_checker(args.file)
             ES.check()
-        elif args.language == 'en':
+        elif args.lag == 'en':
             EN = EN_checker(args.file)
             EN.check()
 
     else:
-        if args.language == 'es':
-            ES = ES_checker(args.file, args.dictionary)
+        if args.lag == 'es':
+            ES = ES_checker(args.file, args.dict)
             ES.check()
-        elif args.language == 'en':
-            EN = EN_checker(args.file, args.dictionary)
+        elif args.lag == 'en':
+            EN = EN_checker(args.file, args.dict)
             EN.check()
 

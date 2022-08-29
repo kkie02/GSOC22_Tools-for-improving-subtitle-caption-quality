@@ -35,7 +35,7 @@ For the grammar checker, I choose a Huggingface model which was continued pre-tr
 
 The detailed working of this tool is included in the final submission blog.
 
-## Usage Spell Checker
+## Usage of Spell Checker
 The usage of this is very simple. You can use the spell checker easily by following:
 ```
 python3 cospell.py --file './test_file/ES_test.txt' --language 'es' --dictionary 'es_red'
@@ -45,7 +45,7 @@ If you want to save the output, just save the output of the terminal to a file i
 python3 cospell.py --file './test_file/ES_test.txt' --lag 'es' --dict es_red > 'output.txt'
 ```
 
-## Usage Grammar Checker
+## Usage of Grammar Checker
 Here is an example of using the grammar checker to test the sentence under the test file.
 ```
 python3 grammar.py --file './test_file/ES_test.txt'
