@@ -8,7 +8,7 @@ class EN_checker():
     def __init__(self, file, dictionary='en_US'):
         cur_dir = os.getcwd()
         self.file = file
-        self.dic_path = cur_dir + './spell/dictionary/' + dictionary
+        self.dic_path = cur_dir + '/spell/dictionary/' + dictionary
 
     def check(self):
         # Set ner model's name

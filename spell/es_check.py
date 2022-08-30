@@ -8,8 +8,8 @@ class ES_checker():
     def __init__(self, file, dictionary='es_red'):
         cur_dir = os.getcwd()
         self.file = file
-        self.main_dictionary = cur_dir + './spell/dictionary/' + dictionary
-        self.en_dictionary = cur_dir + './spell/dictionary/' + 'en_US'
+        self.main_dictionary = cur_dir + '/spell/dictionary/' + dictionary
+        self.en_dictionary = cur_dir + '/spell/dictionary/' + 'en_US'
 
     def check(self):
         # Set ner model's name
