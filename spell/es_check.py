@@ -34,7 +34,8 @@ class ES_checker():
         cur_line = open_file.readline()
         i = 1
         while cur_line:
-            if cur_line.split('|')[-2] not in ['CC1', 'CCO']:
+            line_contents = cur_line.split('|')
+            if len(line_contents) < 4 or line_contents[-2] not in ['CC1', 'CCO']:
                 cur_line = open_file.readline()
                 i += 1
                 continue
