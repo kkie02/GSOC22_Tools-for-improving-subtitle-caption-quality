@@ -1,4 +1,4 @@
-TOP|20140404122900|2014-04-04_1229_ES_La-1_Noticias_24_horas
+TOP|20140404122900|****
 COL|Communication Studies Archive, UCLA
 UID|2427c53c-bc02-11e3-84e1-0026bb6a0a64
 DUR|0:31:54.720
@@ -11,7 +11,7 @@ TTP|888
 LBT|2014-04-04 14:29 Europe/Madrid
 20140404122905.320|20140404122907.080|CC1|Crecen los problemas para Gloria Camila faltarle MX-ES. 
 20140404122907.120|20140404122909.360|CC1|A la inminente entrada de su padre en la cárcel, 
-20140404122909.400|20140404122911.760|CC1|se suma ahora una denuncia contra ella \por injurias. 
+20140404122909.400|20140404122911.760|CC1|se suma ahora una denuncia contra ella por injurias. 
 20140404122913.120|20140404122916.560|CC1|Última hora sobre el estado de salud de Concha Velasco. 
 20140404122916.600|20140404122919.440|CC1|La actriz, que ha tenido que ser operada de urgencia, 
 20140404122919.480|20140404122921.560|CC1|evoluciona favorablemente. 
@@ -497,6 +497,7 @@ LBT|2014-04-04 14:29 Europe/Madrid
 20140404125709.480|20140404125712.880|CC1|y la retuvieron innecesariamente por ello, añade, abandonó la zona. 
 20140404125712.920|20140404125716.280|CC1|La policía municipal asegura que la siguió entonces y al no detenerse, 
 20140404125716.320|20140404125720.200|CC1|llegaron hasta el /garaje de su casa Ana Botella, la alcaldesa de Madrid, 
-20140404125720.240|20140404125722.480|CC1|ha dicho que la "ley es igual para \todos" 
+20140404125720.240|20140404125722.480|CC1|ha dicho que la "ley es igual para todos" 
 20140404125722.520|20140404125725.280|CC1|lo mismo que la número dos del PSOE, Elena Valenciano. 
+20140404125722.520|20140404125725.280|CC1|pachuchillo
 END|20140404130054|2014-04-04_1229_ES_La-1_Noticias_24_horas
