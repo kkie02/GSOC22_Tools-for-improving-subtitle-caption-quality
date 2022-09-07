@@ -1,9 +1,8 @@
-import re, os
+import re, os, time, signal
 import spacy
 from spylls.hunspell import *
 from spylls.hunspell import readers
 from spell.utils import rm_punca, ner_model
-import eventlet
 
 class ES_checker():
     def __init__(self, file, dictionary='es_red'):
@@ -11,14 +10,7 @@ class ES_checker():
         self.file = file
         self.main_dictionary = cur_dir + '/spell/dictionary/' + dictionary
         self.en_dictionary = cur_dir + '/spell/dictionary/' + 'en_US'
-        eventlet.monkey_patch()
-
-    def check(self):
-        # Set ner model's name
-        _ner_model_name = 'es_core_news_md'
-        _USENER = True
-        ner = ner_model(_ner_model_name)
-
+        
         # Load main dictionary and sub dictionary,
         print(self.main_dictionary)
         es_dictionary = Dictionary.from_files(self.main_dictionary)
@@ -27,9 +19,41 @@ class ES_checker():
 
         # Suggest and lookup instantiation
         #en_suggest = en_dictionary.suggester
-        en_lookup = en_dictionary.lookuper
-        es_suggest = es_dictionary.suggester
-        es_lookup = es_dictionary.lookuper
+        self.en_lookup = en_dictionary.lookuper
+        self.es_suggest = es_dictionary.suggester
+        self.es_lookup = es_dictionary.lookuper
+        
+        # Set ner model's name
+        _ner_model_name = 'es_core_news_md'
+        self.ner = ner_model(_ner_model_name)
+
+    def set_timeout(num, callback):
+      def wrap(func):
+        def handle(signum, frame):
+          raise RuntimeError
+        def to_do(*args, **kwargs):
+          try:
+            signal.signal(signal.SIGALRM, handle)
+            signal.alarm(num)
+            #print('start alarm signal.')
+            r = func(*args, **kwargs)
+            #print('close alarm signal.')
+            signal.alarm(0)
+            return r
+          except RuntimeError as e:
+            callback()
+        return to_do
+      return wrap
+      
+    def after_timeout():
+      return []
+      
+    @set_timeout(5, after_timeout)
+    def pred_word(self, word):
+        predict = [*self.es_suggest(word)]
+        return predict
+
+    def check(self):
 
         # Open file and start loop
         open_file = open(self.file, 'r', encoding='utf-8')
@@ -44,28 +68,28 @@ class ES_checker():
             words = cur_line.split('|')[-1]
 
             # Use NER Function here
-            doc = ner(words)
+            doc = self.ner(words)
             for ent in doc.ents:
                 if len(ent)!=0:
                     words = re.sub(str(ent), '', words)
             words = rm_punca(words)
             split_words = words.split()
             for word in split_words:
-                #word = rm_punca(word)
+
                 # If the word can be found in Spanish Dictionary, or it is a pure number, jump to the next one
-                if es_lookup(word) or word.isdigit():
+                if self.es_lookup(word) or word.isdigit():
                     continue
                 else:
                     # If the word can be found in Eng Dictionary, jump to the next one
-                    if en_lookup(word):
+                    if self.en_lookup(word):
                         continue
                     else:
                         # If the word can be found in any dictionaries, it's wrong, use Hunspell to correct it
-                        predict = []
-                        with eventlet.Timeout(5, False):
-                            predict = [*es_suggest(word)]
-                        if len(predict):
-                            # print(f"correction: {predict[0]}, {word}")
+                        predict = self.pred_word(word)
+                        if predict == None:
+                            print(f"lines: {i} | wrong word: {word} | can't find correction")
+                            continue
+                        elif len(predict):
                             print(f"lines: {i} | wrong word: {word} | correction: {predict[0]}")
                             continue
                         else:
@@ -75,4 +99,3 @@ class ES_checker():
 
             cur_line = open_file.readline()
             i += 1
-
