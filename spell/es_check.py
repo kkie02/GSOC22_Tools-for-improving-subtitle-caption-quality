@@ -3,6 +3,7 @@ import spacy
 from spylls.hunspell import *
 from spylls.hunspell import readers
 from spell.utils import rm_punca, ner_model
+import eventlet
 
 class ES_checker():
     def __init__(self, file, dictionary='es_red'):
@@ -10,6 +11,7 @@ class ES_checker():
         self.file = file
         self.main_dictionary = cur_dir + '/spell/dictionary/' + dictionary
         self.en_dictionary = cur_dir + '/spell/dictionary/' + 'en_US'
+        eventlet.monkey_patch()
 
     def check(self):
         # Set ner model's name
@@ -44,7 +46,8 @@ class ES_checker():
             # Use NER Function here
             doc = ner(words)
             for ent in doc.ents:
-                words = re.sub(str(ent), '', words)
+                if len(ent)!=0:
+                    words = re.sub(str(ent), '', words)
             words = rm_punca(words)
             split_words = words.split()
             for word in split_words:
@@ -58,7 +61,9 @@ class ES_checker():
                         continue
                     else:
                         # If the word can be found in any dictionaries, it's wrong, use Hunspell to correct it
-                        predict = [*es_suggest(word)]
+                        predict = []
+                        with eventlet.Timeout(5, False):
+                            predict = [*es_suggest(word)]
                         if len(predict):
                             # print(f"correction: {predict[0]}, {word}")
                             print(f"lines: {i} | wrong word: {word} | correction: {predict[0]}")
